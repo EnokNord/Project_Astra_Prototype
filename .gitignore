@@ -17,6 +17,7 @@ Astra/Saved/Config/CrashReportClient/UE4CC-Windows-DB59C379430AD5D7ADB3DDB62CBA4
 Astra/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Astra/Saved/Logs/Astra.log
 *.log
+Astra/Saved/*
 Astra/Saved/Logs/Astra.log
 Astra/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Astra/Intermediate/CachedAssetRegistry.bin
